@@ -1,11 +1,11 @@
-# cubelab-site
+# cuberoom-site
 
-iPhone アプリ「CubeLab」の紹介ページ・プライバシーポリシー・サポートページ（GitHub Pages）。
+iPhone アプリ「CubeRoom」の紹介ページ・プライバシーポリシー・サポートページ（GitHub Pages）。
 
-- https://ddmorry.github.io/cubelab-site/
-- プライバシーポリシー: https://ddmorry.github.io/cubelab-site/privacy.html
-- サポート: https://ddmorry.github.io/cubelab-site/support.html
+- https://ddmorry.github.io/cuberoom-site/
+- プライバシーポリシー: https://ddmorry.github.io/cuberoom-site/privacy.html
+- サポート: https://ddmorry.github.io/cuberoom-site/support.html
 
-お問い合わせはこのリポジトリの [Issues](https://github.com/ddmorry/cubelab-site/issues) へ。
+お問い合わせはこのリポジトリの [Issues](https://github.com/ddmorry/cuberoom-site/issues) へ。
 
 外部のフォント・スクリプト・解析タグは読み込まない、素の HTML/CSS だけのサイトです。
